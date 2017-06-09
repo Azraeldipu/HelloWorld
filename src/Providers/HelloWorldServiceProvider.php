@@ -21,4 +21,3 @@ public function register()
 {
     $this->getApplication()->register(HelloWorldRouteServiceProvider::class);
 }
-?>
